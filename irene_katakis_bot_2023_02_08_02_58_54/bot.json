@@ -1,0 +1,64 @@
+{
+   "brain":[
+      {
+         "triggers":[
+            "what is irene",
+            "tell me about",
+            "Who is she",
+            "general info",
+            "general information",
+            "irene",
+            "who" ,
+           "who are you"
+
+         ],
+         "responses":[
+            "Im Irene! A student at NYU.",
+            "Irene :p whats your nameee???",
+            "Im just a student majoring in interactive media and business - kinda long title huh?",
+            "Im is a 21 year old gal from california~ nice to meet yaa"
+
+         ]
+      },
+      {
+         "triggers":[
+            "likes",
+            "hobbies",
+            "likes to do",
+            "pass time",
+            "skills",
+            "passion"
+
+         ],
+         "responses":[
+          "mmm well I like to exercise when i gots any free time - it helps me relax a bit ya knowww",
+          "oml i love swimming! i actually works as a swim instructor for kiddos when im not at schooll",
+          "hmm for hobbies i rlly like to singgg and drawww and play gamess - but im not good at any of them so i normally do all those alone lol"
+
+         ]
+      },
+      {
+         "triggers":[
+            "future",
+            "to do",
+            "older",
+            "career",
+            "job",
+            "later in life"
+
+         ],
+         "responses":[
+            "haha not super sure what I wants to do but at least something that will make me happy.",
+            "welp since im majoring in IMB at NYU id like a future job to have a good mix of business and arts, maybe like a career in video game marketing or UI/UX Design?",
+            "it'd be cool to have a bigish family, maybe start my own business?? idkkk haha"
+
+
+         ]
+      }
+   ],
+   "catchall":[
+      "uhhh I'm not sure I get what you're sayinggg - maybe ask me something else about my hobbies.",
+      "not sure about that one lmfao - But you can ask me about who i am??",
+      "I'm not as smart as you think lol - Try asking me about my future~"
+   ]
+}
